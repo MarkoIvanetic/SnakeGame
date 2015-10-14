@@ -1,6 +1,6 @@
 #SnakeGame
 
-A snake game made in vanilla JavaScript.
+Self playing Snake game. In progress...
 
 ##Demo
 
